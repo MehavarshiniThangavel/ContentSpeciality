@@ -32,11 +32,10 @@
 
 
 specialty-bot/
-
-├── bot.py              # Main Python script
-├── .env                # Environment file (ignored by Git)
-├── requirements.txt    # Python dependencies
-└── README.md           # Project documentation
+├── bot.py              
+├── .env                
+├── requirements.txt    
+└── README.md
 
 💡 Usage
 
